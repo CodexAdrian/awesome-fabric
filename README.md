@@ -64,6 +64,7 @@
 - [Fabric API](https://github.com/FabricMC/fabric) - Essential hooks and patches for modding with Fabric. ([Wiki](https://fabricmc.net/wiki)) `Apache-2.0`
 - [Mesh](https://github.com/GlassPane/Mesh) - A modding library with various utilities, such as auto-registration of items and blocks, or crafting recipe generation. ([Wiki](https://github.com/GlassPane/Mesh/blob/1.18/README.md)) `LGPL-3.0-only`
 - [oωo (owo-lib)](https://github.com/glisco03/owo-lib) - A general utility library for content-focused modding on Fabric. ([Wiki](https://github.com/wisp-forest/owo-lib/blob/1.18.2/README.md)) `MIT`
+- [Resourceful Lib](https://github.com/Resourceful-Bees/ResourcefulLib) - A cross-platform library with various utilities, like codec utilities & recipe serializers, JSON file utils, compressed binary notation, and networking utilities. `MIT`
 
 ### Audio
 
